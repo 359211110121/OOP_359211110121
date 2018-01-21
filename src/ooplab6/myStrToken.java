@@ -1,4 +1,4 @@
-package oop_lab6;
+package ooplab6;
 
 import java.util.StringTokenizer;
 
