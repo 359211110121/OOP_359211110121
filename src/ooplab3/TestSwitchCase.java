@@ -1,4 +1,4 @@
-package oop_lab3;
+package ooplab3;
 
 import com.sun.xml.internal.ws.api.streaming.XMLStreamWriterFactory;
 
