@@ -1,4 +1,4 @@
-package oop_lab6;
+package ooplab6;
 
 public class myStrBuff {
     public static void main(String[] args) {
@@ -14,6 +14,10 @@ public class myStrBuff {
         System.out.println(myBuf.length());
         System.out.println(myBuf.capacity());
         System.out.println(myBuf.reverse());
+
+
+
+
 
     }//main
 }//class
