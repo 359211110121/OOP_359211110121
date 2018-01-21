@@ -1,4 +1,4 @@
-package oop_lab3;
+package ooplab3;
 //0-49 = F
 //50-59 = D
 //60-69 = C
