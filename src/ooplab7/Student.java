@@ -14,6 +14,8 @@ package ooplab7;
 
 public class Student {
     //properties of Student class
+    public static int age;
+    public String group;
     private String id;
     private String name;
     private String pid;
@@ -24,7 +26,7 @@ public class Student {
     //create by own
     public Student(String id, String n,String pid, String a){
         //assign data to class properties
-        this.id = id;
+
         this.name = n;
         this.pid = pid;
         this.address = a;
